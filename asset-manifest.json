@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/roshni4610/portfolio.git/static/css/main.54181c13.css",
-    "main.js": "/roshni4610/portfolio.git/static/js/main.32830f58.js",
-    "static/js/453.ad7768ec.chunk.js": "/roshni4610/portfolio.git/static/js/453.ad7768ec.chunk.js",
-    "static/media/roshni.jpg": "/roshni4610/portfolio.git/static/media/roshni.bebeeaccd9243ece129d.jpg",
-    "static/media/tictactoe.jpg": "/roshni4610/portfolio.git/static/media/tictactoe.d3465f480bb69258f2fe.jpg",
-    "static/media/rockpaperscissors.jpg": "/roshni4610/portfolio.git/static/media/rockpaperscissors.c77072ff85c7b903ab4f.jpg",
-    "static/media/plane-shooter (1).png": "/roshni4610/portfolio.git/static/media/plane-shooter (1).f9c366cfacdc4173bcf5.png",
-    "static/media/bookapi.jpg": "/roshni4610/portfolio.git/static/media/bookapi.992aafd89badc6ff78a1.jpg",
-    "index.html": "/roshni4610/portfolio.git/index.html",
-    "main.54181c13.css.map": "/roshni4610/portfolio.git/static/css/main.54181c13.css.map",
-    "main.32830f58.js.map": "/roshni4610/portfolio.git/static/js/main.32830f58.js.map",
-    "453.ad7768ec.chunk.js.map": "/roshni4610/portfolio.git/static/js/453.ad7768ec.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.54181c13.css",
+    "main.js": "/portfolio/static/js/main.ec7fc2a6.js",
+    "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/roshni.jpg": "/portfolio/static/media/roshni.bebeeaccd9243ece129d.jpg",
+    "static/media/tictactoe.jpg": "/portfolio/static/media/tictactoe.d3465f480bb69258f2fe.jpg",
+    "static/media/rockpaperscissors.jpg": "/portfolio/static/media/rockpaperscissors.c77072ff85c7b903ab4f.jpg",
+    "static/media/plane-shooter (1).png": "/portfolio/static/media/plane-shooter (1).f9c366cfacdc4173bcf5.png",
+    "static/media/bookapi.jpg": "/portfolio/static/media/bookapi.992aafd89badc6ff78a1.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.54181c13.css.map": "/portfolio/static/css/main.54181c13.css.map",
+    "main.ec7fc2a6.js.map": "/portfolio/static/js/main.ec7fc2a6.js.map",
+    "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54181c13.css",
-    "static/js/main.32830f58.js"
+    "static/js/main.ec7fc2a6.js"
   ]
 }
